@@ -1,6 +1,6 @@
 
 
-## How to Install GNU Radio
+##  Install GNU Radio to run 
 
 ### Prebuilt Binaries
 
